@@ -7,7 +7,7 @@
 </p>
     
 <p align="left">
-  <a href="https://github.com/SRiera98"><img width="400" src="https://github-readme-stats.vercel.app/api?username=SRiera98&show_icons=true&theme=merko">
+  <a href="https://github.com/SRiera98"><img width="400" src="https://github-readme-stats.vercel.app/api?username=SRiera98&show_icons=true&theme=merko&count_private=true">
   <a href="https://github.com/SRiera98"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRiera98&hide=html,scss,css&langs_count=10&layout=compact&theme=merko">
 </p>
     
